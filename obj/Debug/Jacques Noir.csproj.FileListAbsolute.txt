@@ -1,0 +1,67 @@
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\Jacques Noir.csprojAssemblyReference.cache
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playTable.resources
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\coop1y822\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\obj\Debug\Jacques Noir.csprojAssemblyReference.cache
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playTable.resources
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Noir Jacques\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Noir Jacques\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Noir Jacques\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.csprojAssemblyReference.cache
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playTable.resources
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playTable.resources
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nameEntry.resources
+D:\programmin\Noir Jacques\WindowsFormsApp1\bin\Debug\Jacques Noir.exe.config
+D:\programmin\Noir Jacques\WindowsFormsApp1\bin\Debug\Jacques Noir.exe
+D:\programmin\Noir Jacques\WindowsFormsApp1\bin\Debug\Jacques Noir.pdb
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\JacquesNoirForm.Properties.Resources.resources
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.exe
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\Jacques Noir.pdb
+D:\programmin\Noir Jacques\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.popupBox.resources
+D:\programmin\Noir Jacques\WindowsFormsApp1\bin\Debug\Jacques Noir.exe.CodeAnalysisLog.xml
+D:\programmin\Noir Jacques\WindowsFormsApp1\bin\Debug\Jacques Noir.exe.lastcodeanalysissucceeded
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csprojAssemblyReference.cache
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nameEntry.resources
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playTable.resources
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.popupBox.resources
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\JacquesNoirForm.Properties.Resources.resources
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.exe
+D:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.pdb
+D:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.exe.config
+D:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.exe
+D:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.pdb
+F:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.exe.config
+F:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.exe
+F:\programmin\Jacques Noir\WindowsFormsApp1\bin\Debug\Jacques Noir.pdb
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csprojAssemblyReference.cache
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\JacquesNoirForm.Properties.Resources.resources
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.GenerateResource.cache
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.csproj.CoreCompileInputs.cache
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.exe
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\Jacques Noir.pdb
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\blackJackForm.nameEntry.resources
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\blackJackForm.playTable.resources
+F:\programmin\Jacques Noir\WindowsFormsApp1\obj\Debug\blackJackForm.popupBox.resources
